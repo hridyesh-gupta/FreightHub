@@ -5,7 +5,7 @@ This platform offers real-time communication, seamless document management, and 
 
 ### Key Features:
 
--Real-time coordination with shipping carriers
--Centralized document management for easy access and updates
--Compliance tools to meet international export standards
--Shipment tracking and query resolution
+- Real-time coordination with shipping carriers
+- Centralized document management for easy access and updates
+- Compliance tools to meet international export standards
+- Shipment tracking and query resolution
